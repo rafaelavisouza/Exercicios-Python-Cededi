@@ -1,12 +1,12 @@
-Atividades Avaliativas: Backend com Python
+# 🚀 Atividades Avaliativas: Backend com Python
 
-Programa e Aluno
+## 🎓 Programa e Aluno
 
 | Item | Detalhe |
 | :--- | :--- |
 | **Programa** | **Bolsa Futuro Digital - CEPEDI + IFBA** |
 | **Módulo/Trilha** | **Backend com Python** |
-| **Nome Completo** | [Rafaela Vitoria Marques Souza] |
+| **Nome Completo** | Rafaela Vitoria Marques Souza|
 
 
 ---
@@ -19,7 +19,7 @@ Todos os arquivos estão organizados e versionados para que o professor possa ra
 
 ## 📋 Lista de Exercícios e Status
 
-| Arquivo | Descrição da Tarefa | Status |
+| Arquivo | Descrição da Tarefa | 
 | :--- | :--- | :--- |
 | `primeiroExercicio.py` | Separa uma lista de inteiros em duas novas listas: **números primos** e **números não primos**. | 
 | `segundoExercicio.py` | Converte uma lista de tuplas `(nome, nota)` em um dicionário, calculando a **média** e exibindo em ordem crescente de média. | 
@@ -30,3 +30,4 @@ Todos os arquivos estão organizados e versionados para que o professor possa ra
 | `setimoExercicio.py` | Agrupa lista de dicionários por ano, calcula e exibe o **preço médio** por ano em ordem cronológica. |
 
 ---
+
